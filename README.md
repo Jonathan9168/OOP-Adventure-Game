@@ -9,6 +9,13 @@ Preferably, run in intelliJ IDE to preserve terminal colour coding else, run _"I
 
 # Gameplay
 
+## Town Info
+![image](https://user-images.githubusercontent.com/77795437/200182231-1df09e18-2ad6-4561-88d2-97eff4445a43.png)
+
+## Town Interactions
+![image](https://user-images.githubusercontent.com/77795437/200182269-5af17282-7122-47f6-b61e-a034ed34031d.png)
+
+
 - 🔥The aim of the game is to kill all enemies.
 - Towns are randomly generated. There is a chance a Monster or Warrior could spawn.
 - 🔥You have an attack stat which can be increased by picking weapons up.(Maximum Interaction is 1 per town)
