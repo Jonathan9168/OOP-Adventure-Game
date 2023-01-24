@@ -10,12 +10,56 @@ Preferably, run in intelliJ IDE to preserve terminal colour coding else, run _"I
 # Gameplay
 
 ## Town Info
-![image](https://user-images.githubusercontent.com/77795437/200182231-1df09e18-2ad6-4561-88d2-97eff4445a43.png)
+```
+NAME:John
+ATTACK:10[DMG]
+HP:100%
 
+What Town Would You Like To Travel To?
+---------------------------
+Town ---> |Bind|
+There is a Monster Jonsa with 100HP [ALIVE]
+There is a Magician Landrover present... He could be good or bad. You'll have to risk it for a biscuit! [2 (TRIES/TRY) LEFT]
+There's a weapon present. Pick it up to find out more... [1 (EQUIP/EQUIPS) LEFT]
+A potion with a health boost of up to 35 health is present. [2 (POTION/POTIONS) LEFT]
+---------------------------
+Town ---> |Trope|
+There is a Monster Kulum with 100HP [ALIVE]
+There is a Magician Tyron present... He could be good or bad. You'll have to risk it for a biscuit! [2 (TRIES/TRY) LEFT]
+There's a weapon present. Pick it up to find out more... [1 (EQUIP/EQUIPS) LEFT]
+A potion with a health boost of up to 35 health is present. [2 (POTION/POTIONS) LEFT]
+---------------------------
+Town ---> |Azaar|
+There is a Warrior Desdrick with 138HP [ALIVE]
+There is a Magician Falqway present... He could be good or bad. You'll have to risk it for a biscuit! [2 (TRIES/TRY) LEFT]
+There's a weapon present. Pick it up to find out more... [1 (EQUIP/EQUIPS) LEFT]
+A potion with a health boost of up to 35 health is present. [2 (POTION/POTIONS) LEFT]
+---------------------------
+Town ---> |Fracture|
+There is a Warrior Erq with 148HP [ALIVE]
+There is a Magician Falqway present... He could be good or bad. You'll have to risk it for a biscuit! [2 (TRIES/TRY) LEFT]
+There's a weapon present. Pick it up to find out more... [1 (EQUIP/EQUIPS) LEFT]
+A potion with a health boost of up to 35 health is present. [2 (POTION/POTIONS) LEFT]
+---------------------------
+Town ---> |Haven|
+There is a Monster Erq with 100HP [ALIVE]
+There is a Magician Landin present... He could be good or bad. You'll have to risk it for a biscuit! [2 (TRIES/TRY) LEFT]
+There's a weapon present. Pick it up to find out more... [1 (EQUIP/EQUIPS) LEFT]
+A potion with a health boost of up to 35 health is present. [2 (POTION/POTIONS) LEFT]
+---------------------------
+```
 ## Town Interactions
-![image](https://user-images.githubusercontent.com/77795437/200182269-5af17282-7122-47f6-b61e-a034ed34031d.png)
-
-
+```
+[A] Fight Enemy 
+[B] Try Magician 
+[C] Equip Weapon 
+[D] Drink Potion 
+[E] Leave Town 
+[F] View Inventory 
+[Q] Quit
+```
+## Synopsis
+```
 - 🔥The aim of the game is to kill all enemies.
 - Towns are randomly generated. There is a chance a Monster or Warrior could spawn.
 - 🔥You have an attack stat which can be increased by picking weapons up.(Maximum Interaction is 1 per town)
@@ -27,3 +71,4 @@ Preferably, run in intelliJ IDE to preserve terminal colour coding else, run _"I
 - ⚔ Warriors are stronger than Monsters (Higher HP and Higher DMG). Tread Carefully!
 - ⚗️Potions are present too. But beware... Toxic potions can suppress your attack stat. Normal potions will increase your health.
 * Maximum Interaction is 2 per town.
+```
